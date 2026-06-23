@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce caricia
+
+This log tracks the cryptographic history and versioning for the song **Dulce caricia** (dulce-caricia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T04:55:14.476603 | `v1` | `116ad1ad6a7f65fe4a436627bba5003419fd9cb8823306a60d1ce8cd7a0690e2` | `03d11239fa5b716d7a050e30ab9a4f1030843145abbfbdf7d77fd73c46dd057d` | `2026-06-24_dulce-caricia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

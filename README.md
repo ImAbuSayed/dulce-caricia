@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-caricia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dulce caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-caricia/) |
+| **Get License** | [Music Rights & Licensing for Dulce caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-caricia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `116ad1ad6a7f65fe4a436627bba5003419fd9cb8823306a60d1ce8cd7a0690e2` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
