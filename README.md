@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-caricia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dulce caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-caricia/) |
+| **Get License** | [License this song: Dulce caricia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-caricia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche tú y yo nos perdemos en la oscuridad
+> Siento tu respiración, me domina la curiosidad
+> Un roce de tu piel y me olvido de la realidad
+> Esa dulce caricia me lleva a otra dimensión, de verdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
